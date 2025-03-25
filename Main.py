@@ -386,7 +386,7 @@ class FlamingEngine:
 class FlamingEngineIDE:
     def __init__(self, root):
         self.root = root
-        self.root.title("Flaming Engine - DEMO")
+        self.root.title("Breeze Engine - DEMO")
         self.root.geometry("1200x800")
         
         # Create engine
