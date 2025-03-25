@@ -1,8 +1,8 @@
 # BreezeEngine
 a probably lightweight game engine like godot but with an easier programming language 
 
-THIS IS A DEMO WAIT FOR THE RELEASE!
-
+!!! REVAMPED ON LUA SOON !!!
+ 
 how to use:
 1. download/copy paste the code
 2. download necessary downloads with pip
